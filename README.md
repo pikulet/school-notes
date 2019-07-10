@@ -16,4 +16,4 @@ https://nus-cs2103-ay1819s1.github.io/cs2103-website/se-book-adapted/index.html
 
 ## CS2107 Introduction to Information Security
 
-My notes were based on the slides and actual lectures attended. They used to contain the reading links from the slides but these were removed when I read through them.
+My notes were based on the slides and actual lectures attended.
