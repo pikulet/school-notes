@@ -1,3 +1,5 @@
+im just an average student, take notes with a pinch of salt
+
 ## CS2030 Programming Methodology II
 
 The notes were largely based off the actual notes provided during CS2030, which can be found here:
